@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Mijn landingspagina</title>
+</head>
+<body>
+  <h1>Welkom op mijn landingspagina!</h1>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, enim ac bibendum congue, velit velit</p>
+  <button onclick="alert('Hallo')">Klik hier</button>
+</body>
+</html>
