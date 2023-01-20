@@ -9,3 +9,12 @@
   <button onclick="alert('Hallo')">Klik hier</button>
 </body>
 </html>
+body {
+  background-color: #f1f1f1;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: #333;
+}
